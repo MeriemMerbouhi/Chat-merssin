@@ -1,3 +1,23 @@
+# merssin - React Chat Application
+
+Welcome to "merssin," an innovative React chat application that brings seamless communication to the forefront.
+
+## Features
+
+- Real-time chat functionality.
+- User-friendly interface for effortless communication.
+- Secure login with user1 (password: 123) or user2 (password: 123).
+
+## Getting Started
+![image](https://github.com/MeriemMerbouhi/Chat-merssin/assets/147644221/55b6b0f0-6fff-4981-9722-90c25e49e536)
+![image](https://github.com/MeriemMerbouhi/Chat-merssin/assets/147644221/4538d17d-65bf-470c-9869-acf2fa811891)
+
+## Live Demo
+Explore the live demo at Your Live Website URL.
+
+## Contributing
+Feel free to contribute by opening issues or submitting pull requests. Your feedback is highly appreciated!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
