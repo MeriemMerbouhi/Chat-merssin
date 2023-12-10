@@ -13,7 +13,7 @@ Welcome to "merssin," an innovative React chat application that brings seamless 
 ![image](https://github.com/MeriemMerbouhi/Chat-merssin/assets/147644221/4538d17d-65bf-470c-9869-acf2fa811891)
 
 ## Live Demo
-Explore the live demo at Your Live Website URL.
+Explore the live demo https://merssin.vercel.app/
 
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests. Your feedback is highly appreciated!
